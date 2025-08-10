@@ -1,6 +1,6 @@
-import { DynData } from "./types";
-import { InvalidMessageError } from "./errors";
-import { IncompleteMessageError } from "./errors";
+import { DynData } from "../utils/types";
+import { InvalidMessageError } from "../utils/errors";
+import { IncompleteMessageError } from "../utils/errors";
 
 
 
